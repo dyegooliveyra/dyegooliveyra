@@ -18,7 +18,12 @@
 - 💼 I’m looking for a bachelor's degree in Systems Analysis and Development, but I'm already graduated in Marketing.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [diegooliveirabryto@gmail.com](mailto:diegooliveirabryto@gmail.com).
-- Perfil antigo: https://github.com/Diegooliveyra
+
+<br>
+
+<h2> Perfil antigo: https://github.com/Diegooliveyra </h2>
+
+<br>
 <br>
 
 **Languages and Tools**
